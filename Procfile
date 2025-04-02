@@ -1,0 +1,1 @@
+worker: python Astronomy2025Bot.py
